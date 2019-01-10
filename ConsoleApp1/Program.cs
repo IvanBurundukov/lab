@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, IVANBurundukov");
+            Console.WriteLine("Проверка командной работы");
             Console.WriteLine("New string");
         }
     }
